@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Nirman Raipur](https://github.com/divyansh884/Nirman_Raipur)
 - 📫 How to reach me **divyanshsharma35403@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14VmKhlysptaDLbz_TxnVUOVRVfoKXOq-/view?usp=sharing)
+- 📄 Phone No: +91 7024226251
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
