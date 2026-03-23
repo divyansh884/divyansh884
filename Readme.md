@@ -6,7 +6,7 @@
 
 </p>
 
-- 🔭 I’m currently working on [HIRA-HALL](https://github.com/divyansh884/Nirman_Raipur)
+- 🔭 I’m currently working on [HIRA-HALL](https://github.com/divyansh884/HIRA-HALL)
 - 📫 How to reach me **divyanshsharma35403@gmail.com**
 - 📄 Phone No: +91 7024226251
 
