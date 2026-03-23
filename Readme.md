@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Divyansh Sharma</h1>
-<h3 align="center">Software Developer | Former Software Intern @ Ipca Laboratories | Pre-Final Year IT Undergrad @ NIT Raipur</h3>
+<h3 align="center">Software Developer | Former Software Intern @ Raipur Government | Pre-Final Year IT Undergrad @ NIT Raipur</h3>
 
 <p align="left">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
 </p>
 
-- 🔭 I’m currently working on [Nirman Raipur](https://github.com/divyansh884/Nirman_Raipur)
+- 🔭 I’m currently working on [HIRA-HALL](https://github.com/divyansh884/Nirman_Raipur)
 - 📫 How to reach me **divyanshsharma35403@gmail.com**
 - 📄 Phone No: +91 7024226251
 
