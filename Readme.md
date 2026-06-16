@@ -1,5 +1,5 @@
 ![github-header-banner](github-header-banner.png)
-<h3 align="center">Software Developer | Former Software Intern @ Raipur Government | Pre-Final Year IT Undergrad @ NIT Raipur</h3>
+<h3 align="center">Pre-final year IT undergrad @NIT Raipur passionate about building innovative and efficient solutions for digital transformation.</h3>
 
 
 <br />
