@@ -9,32 +9,15 @@
 - 📫 How to reach me **divyanshsharma35403@gmail.com**
 - 📄 Phone No: +91 7024226251
 <br />
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/divyansh8824" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="divyansh8824" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/divyansh-sharma-83702b2a6" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyansh-sharma-83702b2a6" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/divyansh884" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="divyansh884" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/div_uuh" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="div_uuh" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/divyanshsharma37" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank: divyanshsharma37" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/divyansh884" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode: divyansh884" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/divyanshshhnp2/profile" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg: divyanshshhnp2" height="30" width="40" />
-  </a>
+<h2 align="left">Connect with me:</h2>
+<p>
+<a href="https://x.com/Divyansh8824"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" ></a> 
+<a href="https://www.linkedin.com/in/divyansh-sharma-83702b2a6/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/div_uuh/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:divyanshsharma35403@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/>
