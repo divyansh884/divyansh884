@@ -1,14 +1,30 @@
 ![github-header-banner](github-header-banner.png)
 <h3 align="center">Final year IT undergrad @NIT Raipur passionate about building innovative and efficient solutions for digital transformation.</h3>
-
-
 <br />
-  <img height="150" align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
-- 🔭 I’m currently working on web Technologies and AI/ML
-- 📫 How to reach me **divyanshsharma35403@gmail.com**
-- 📄 Phone No: +91 7024226251
-<br />
+<p>Information Technology student at NIT Raipur with a strong foundation in scalable full-stack development (React, Next.js, Node.js, TypeScript). I specialize in bridging the gap between software engineering and applied AI, integrating Computer Vision models (YOLO, PyTorch) and hardware (Raspberry Pi, ESP32) to build impactful, real-time applications.</p>
+ <img height="200" align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<ul>
+  <li>
+    🌍 Based in Indore / Raipur, India.
+  </li>
+    <li>
+   🌱 Currently working on scalable web applications and integrating AI/ML models to build real-world solutions.
+  </li>
+  <li>
+    ⚙️ Focused on optimizing system architectures, backend APIs, and real-time video/data processing.
+  </li>
+  <li>
+    👯 Open to internships, hackathons, and software engineering roles.
+  </li>
+  <li>
+    🤝 Let's collaborate on Full-Stack, Computer Vision, and AI-integrated hardware projects!
+  </li>
+  <li>
+   ✉️ Contact me at: <a href="divyanshsharma35403@gmail.com">divyanshsharma35403@gmail.com</a>
+  </li>
+</ul>
+
 <h2 align="left">Connect with me:</h2>
 <p>
 <a href="https://x.com/Divyansh8824"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" ></a> 
