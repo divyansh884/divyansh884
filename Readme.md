@@ -113,7 +113,7 @@
 <h2>Profile Analysis</h2>
 <p align="center">
       <a href="https://github.com/divyansh884">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aronno1920&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&hide_title=true&theme=dark"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh884&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&hide_title=true&theme=dark"/>
     </a>
   <a href="https://github.com/divyansh884">
     <img width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=divyansh884&hide_border=true&theme=dark" alt="Aronno1920" />
