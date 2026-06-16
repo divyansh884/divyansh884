@@ -2,14 +2,13 @@
 <h3 align="center">Software Developer | Former Software Intern @ Raipur Government | Pre-Final Year IT Undergrad @ NIT Raipur</h3>
 
 
-
+<br />
   <img height="150" align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
-  
 - 🔭 I’m currently working on web Technologies and AI/ML
 - 📫 How to reach me **divyanshsharma35403@gmail.com**
 - 📄 Phone No: +91 7024226251
-
+<br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/divyansh8824" target="_blank">
@@ -111,13 +110,19 @@
   </a>
 </p>
 
-<div align="center">
-  <img
-    src="https://github-readme-streak-stats-eight.vercel.app?user=divyansh884&theme=dracula&hide_border=false&border_radius=5"
-    height="150"
-    alt="streak graph"
-  />
-</div>
+<h2>Profile Analysis</h2>
+<p align="center">
+      <a href="https://github.com/divyansh884">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aronno1920&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&hide_title=true&theme=dark"/>
+    </a>
+  <a href="https://github.com/divyansh884">
+    <img width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=divyansh884&hide_border=true&theme=dark" alt="Aronno1920" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/divyansh884">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyansh884&theme=dark&hide_border=true&hide_title=true" alt="GitHub Profile Summary">
+  </a>
 
 <br />
 
