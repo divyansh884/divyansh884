@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Divyansh Sharma</h1>
+![github-header-banner](github-header-banner.png)
 <h3 align="center">Software Developer | Former Software Intern @ Raipur Government | Pre-Final Year IT Undergrad @ NIT Raipur</h3>
 
 
