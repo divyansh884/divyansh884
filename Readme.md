@@ -2,9 +2,9 @@
 <h3 align="center">Software Developer | Former Software Intern @ Raipur Government | Pre-Final Year IT Undergrad @ NIT Raipur</h3>
 
 </p>
-<p align="right">
+
+- 🔭 I’m currently working on web Technologies and AI/ML<p align="right">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-- 🔭 I’m currently working on web Technologies and AI/ML
 - 📫 How to reach me **divyanshsharma35403@gmail.com**
 - 📄 Phone No: +91 7024226251
 
