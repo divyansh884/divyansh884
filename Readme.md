@@ -106,7 +106,7 @@
 <h2>Profile Analysis</h2>
 <p align="center">
       <a href="https://github.com/divyansh884">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=divyansh884&layout=compact&theme=dark"/>
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=divyansh884&hide_border=true&layout=compact&theme=dark"/>
     </a>
   <a href="https://github.com/divyansh884">
     <img width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=divyansh884&hide_border=true&theme=dark" alt="Aronno1920" />
