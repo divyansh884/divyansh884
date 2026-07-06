@@ -108,9 +108,9 @@
       <a href="https://github.com/divyansh884">
         <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=divyansh884&hide_border=true&layout=compact&theme=dark"/>
     </a>
-  <a href="https://github.com/divyansh884">
-    <img width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=divyansh884&hide_border=true&theme=dark" alt="Aronno1920" />
-  </a>
+ <a href="https://github.com/divyansh884">
+  <img width="390" src="https://streak-stats.demolab.com?user=divyansh884&theme=dark&hide_border=true&card_width=390" alt="GitHub Streak" />
+ </a>
 </p>
 <p align="center">
   <a href="https://github.com/divyansh884">
