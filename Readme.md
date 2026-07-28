@@ -116,7 +116,7 @@
   <a href="https://github.com/divyansh884">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyansh884&theme=dark&hide_border=true&hide_title=true" alt="GitHub Profile Summary">
   </a>
-
+</p>
 <br />
 <h2>Contributions</h2>
 <picture>
